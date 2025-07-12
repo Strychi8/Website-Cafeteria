@@ -1,3 +1,4 @@
 (li>a[href="#"])*6
 .content-shopping-cart
 nav.navbar.container
+img[src="img/cafe-irish.jpg"alt="Cafe Irish"]
