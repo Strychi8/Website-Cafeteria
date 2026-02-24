@@ -1,4 +1,6 @@
 (li>a[href="#"])*6
 .content-shopping-cart
 nav.navbar.container
-img[src="img/cafe-irish.jpg"alt="Cafe Irish"]
+img[src="img/cafe-irish.jpg" alt="Cafe Irish"]
+(img[src="img/gallery$.jpg" alt="Gallery Img$"].gallery-img-$)*5
+ul>(li>a[href="#"])*5
